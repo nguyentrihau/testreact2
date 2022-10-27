@@ -1,0 +1,42 @@
+.bg-tryglass{
+    background-image: linear-gradient(to top, #333, rgba(0, 0, 0, 0.3)),url('/public/glassesImage/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 17px;
+}
+
+.my_header{
+    background-color: rgba(0, 0, 0, 0.6);;
+    color: white;
+
+}
+.test_pic {
+    position: relative;
+}
+.test{
+    padding-top: 40px;
+}
+.test_pic img{
+    width: 250px;
+    height: 300px;
+}
+.list_glass1{
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listGlasses{
+    background-color: white;
+    margin-top: 50px;
+    max-width: 80%;
+    height: 170px;
+}
+.pic_glass{
+    cursor: pointer;
+    border: solid 1px black;
+}
+
+.txt{
+    position: absolute;
+}
